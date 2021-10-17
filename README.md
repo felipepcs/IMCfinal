@@ -1,2 +1,2 @@
 # IMCfinal
-Produto final do projeto IMC,
+Produto final do projeto IMC.
